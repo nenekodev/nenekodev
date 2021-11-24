@@ -22,9 +22,6 @@
 
 -----
 
-![](https://github-readme-stats.vercel.app/api?username=nenekodev&show_icons=true&count_private=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nenekodev)
-
 [![](https://raw.githubusercontent.com/nenekodev/stats/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nenekodev/stats/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/nenekodev/stats/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
