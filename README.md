@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/macOS-Catalina-ae789a?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/Intel-NUC%208-4e9eee?style=flat-square&logo=intel&logoColor=ffffff)<br>
 ![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)
-![](https://img.shields.io/badge/HP-Pavilion%2014-999999?style=flat-square&logo=hp&logoColor=ffffff)<br>
+![](https://img.shields.io/badge/HP-Pavilion%2016-6C6377?style=flat-square&logo=hp&logoColor=ffffff)<br>
 ![](https://img.shields.io/badge/iPhone-13%20mini-faf5f1?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/iPad-5%20(2017)-eeeeee?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/HUAWEI-M6-f5e1af?style=flat-square&logo=HUAWEI&logoColor=ffffff)
