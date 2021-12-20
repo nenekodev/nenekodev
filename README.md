@@ -9,7 +9,9 @@
 ![](https://img.shields.io/badge/Xiaomi-MI%205-ffffff?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![](https://img.shields.io/badge/LUMIA-930-999999?style=flat-square&logo=nokia&logoColor=ffffff)
 <br>
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+![](https://img.shields.io/badge/IDE-Pycharm-52cc75?style=flat-square&logo=pycharm&logoColor=f3f84b)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Sublime%20Text-555555?style=flat-square&logo=sublime-text&logoColor=ffb000)
 
 [![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
