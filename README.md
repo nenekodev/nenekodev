@@ -1,3 +1,6 @@
+> **我对嘉然的喜爱，是人类理性的证明。**<br>
+> <p align="right"><s>——康德</s></p>
+
 ### 主力
 
 ![](https://img.shields.io/badge/macOS-Catalina-ae789a?style=flat-square&logo=apple&logoColor=ffffff)
