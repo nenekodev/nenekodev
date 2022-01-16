@@ -1,4 +1,7 @@
-> **我对嘉然的喜爱，是人类理性的证明。**<br>
+![](https://i0.hdslb.com/bfs/album/8e1f5be55f68bebb48c2767e9de0b526496295cc.png)
+
+
+> **我对诶手的喜爱，是人类理性的证明。**<br>
 > <p align="right"><s>——康德</s></p>
 
 ### 主力
