@@ -1,7 +1,6 @@
-![](https://s4.ax1x.com/2022/01/16/7NwWKf.png)
+![](https://s4.ax1x.com/2022/01/16/7N0jSI.jpg)
 （[Illustrated by @枝江安保_夜夜碳](https://t.bilibili.com/580623627884440502)）
-
-
+  
 > **我对A-SOUL的喜爱，是人类理性的证明。**<br>
 > <p align="right"><s>——康德</s></p>
 
