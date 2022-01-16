@@ -1,4 +1,5 @@
-![](https://i0.hdslb.com/bfs/album/8e1f5be55f68bebb48c2767e9de0b526496295cc.png)
+![](https://s4.ax1x.com/2022/01/16/7ts3PH.png)
+（[Illustrated by @枝江安保_夜夜碳](https://t.bilibili.com/580623627884440502)）
 
 
 > **我对诶手的喜爱，是人类理性的证明。**<br>
