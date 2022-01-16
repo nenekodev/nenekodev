@@ -1,8 +1,8 @@
-![](https://s4.ax1x.com/2022/01/16/7ts3PH.png)
+![](https://s4.ax1x.com/2022/01/16/7NwWKf.png)
 （[Illustrated by @枝江安保_夜夜碳](https://t.bilibili.com/580623627884440502)）
 
 
-> **我对诶手的喜爱，是人类理性的证明。**<br>
+> **我对A-SOUL的喜爱，是人类理性的证明。**<br>
 > <p align="right"><s>——康德</s></p>
 
 ### 主力
