@@ -20,13 +20,13 @@
 ![](https://img.shields.io/badge/Xiaomi-MI%205-ffffff?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![](https://img.shields.io/badge/LUMIA-930-999999?style=flat-square&logo=nokia&logoColor=ffffff)
 
-### 干活的
+### 用什么
 
 ![](https://img.shields.io/badge/IDE-Pycharm-f3f84b?style=flat-square&logo=pycharm&labelColor=63bd5c)
 ![](https://img.shields.io/badge/Visual%20Studio-Code-blue?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Sublime%20Text-555555?style=flat-square&logo=sublime-text&logoColor=ffb000)
 
-### 干的活
+### 搞什么
 
 [![](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
