@@ -52,7 +52,7 @@
 
 主业：[精密玻璃参数计算及打磨工艺](https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%A6%E5%B7%A5%E7%A8%8B)、[光电传感器修理及PCB设计](https://zh.wikipedia.org/wiki/%E5%85%89%E9%9B%BB%E5%B7%A5%E7%A8%8B)、[嵌入式图像设备软件编译及炼丹](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
 
-副业：[前端低水平项目制造](https://github.com/nenekodev?tab=repositories)、[快门按压师](https://nenekodev.tuchong.com/)、[<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/jxt.svg" width="65" border="0" />](https://space.bilibili.com/672328094) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/爹.svg" width="65" border="0" />](https://space.bilibili.com/672346917) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/bjx.svg" width="65" border="0" />](https://space.bilibili.com/672353429) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/n70.svg" width="65" border="0" />](https://space.bilibili.com/672342685) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/yellow home gentleman.svg" width="65" border="0" />](https://space.bilibili.com/351609538)
+副业：[前端低水平项目制造](https://github.com/nenekodev?tab=repositories)、[快门按压师](https://nenekodev.tuchong.com/)
 
 ### 开个盒
 
@@ -60,6 +60,8 @@
 有事就 hello@neneko.cn
 
 ### 感情状况
+
+[<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/jxt.svg" width="65" border="0" />](https://space.bilibili.com/672328094) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/爹.svg" width="65" border="0" />](https://space.bilibili.com/672346917) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/bjx.svg" width="65" border="0" />](https://space.bilibili.com/672353429) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/n70.svg" width="65" border="0" />](https://space.bilibili.com/672342685) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/yellow home gentleman.svg" width="65" border="0" />](https://space.bilibili.com/351609538)
 
 <img src="https://z3.ax1x.com/2021/11/24/oPasKS.png" width="100" border="0" /> https://t.me/addstickers/DianaStrawberry
 
