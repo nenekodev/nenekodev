@@ -122,3 +122,6 @@ jobs:
           plugin_licenses_setup: npm ci
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
