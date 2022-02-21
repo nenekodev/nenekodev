@@ -4,7 +4,7 @@
 > [**我对A-SOUL的喜爱，是人类理性的证明。**](https://github.com/torvalds/linux/tree/42194adcee11c339872fc874d0d0b9f77f84c932)<br>
 > <p align="right"><s>——康德</s></p>
 
-[English](./readme.md)|中文
+[English](./readme.md) | 中文
 
 ### 主力
 
