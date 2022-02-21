@@ -1,7 +1,7 @@
 ![](https://s4.ax1x.com/2022/01/16/7N0jSI.jpg)
 （[Illustrated by @枝江安保_夜夜碳](https://t.bilibili.com/580623627884440502)）
   
-> [**My love for A-SOUL is a testament to human reason。**](https://github.com/torvalds/linux/tree/42194adcee11c339872fc874d0d0b9f77f84c932)<br>
+> [**My love for A-SOUL is a testament to human reason.**](https://github.com/torvalds/linux/tree/42194adcee11c339872fc874d0d0b9f77f84c932)<br>
 > <p align="right"><s>——Immanuel Kant</s></p>
 
 English | [中文](./readme-zh.md)
