@@ -1,5 +1,5 @@
 ![](https://s4.ax1x.com/2022/01/16/7N0jSI.jpg)
-（[Illustrated by @枝江安保_夜夜碳](https://t.bilibili.com/580623627884440502)）
+（[Illustrated by @枝江杀手_夜夜碳](https://t.bilibili.com/580623627884440502)）
   
 > [**我对A-SOUL的喜爱，是人类理性的证明。**](https://github.com/torvalds/linux/tree/42194adcee11c339872fc874d0d0b9f77f84c932)<br>
 > <p align="right"><s>——康德</s></p>
