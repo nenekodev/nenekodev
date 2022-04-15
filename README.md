@@ -66,7 +66,7 @@ Other works：[My projects](https://github.com/nenekodev?tab=repositories)、[My
 
 hello@neneko.cn
 
-### Subscribe XIANGWANDAMOWANG, BEILA⭐KIRA, JIALECAROL, JIARANJINTIANCHISHENME, NAILINQUEEN now
+### Subscribe XIANGWANDAMOWANG🐷, BEILA⭐KIRA, JIALECAROL🐺, JIARANJINTIANCHISHENME🍓, NAILINQUEEN🍦 now
 
 [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/jxt.svg" width="65" border="0" />](https://space.bilibili.com/672328094) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/爹.svg" width="65" border="0" />](https://space.bilibili.com/672346917) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/bjx.svg" width="65" border="0" />](https://space.bilibili.com/672353429) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/n70.svg" width="65" border="0" />](https://space.bilibili.com/672342685) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/yellow home gentleman.svg" width="65" border="0" />](https://space.bilibili.com/351609538)
 
