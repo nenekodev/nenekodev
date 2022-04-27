@@ -13,7 +13,7 @@
 [![macOS Catalina](https://img.shields.io/badge/macOS-Catalina-ae789a?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/cn/macos/catalina/)
 [![Intel NUC](https://img.shields.io/badge/Intel-NUC%208-4e9eee?style=flat-square&logo=intel&logoColor=ffffff)](https://www.intel.cn/content/www/cn/zh/products/details/nuc.html)
 <br>
-[![Windows 11](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=microsoft&logoColor=66ccff)](https://www.microsoft.com/windows/get-windows-11)
+[![Windows Server 2019](https://img.shields.io/badge/Windows-Server%202019-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
 [![HP Pavilion 15](https://img.shields.io/badge/HP-Pavilion%2015-6C6377?style=flat-square&logo=hp&logoColor=ffffff)](https://www.hp.com/cn-zh/pavilion.html)
 <br>
 [![iPhone 13 mini](https://img.shields.io/badge/iPhone-13%20mini-faf5f1?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/)
