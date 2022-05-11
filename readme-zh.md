@@ -1,11 +1,3 @@
-# https://jiaranjintianchishen.me
-
-![](https://s4.ax1x.com/2022/01/16/7N0jSI.jpg)
-（[Illustrated by @枝江杀手_夜夜碳](https://t.bilibili.com/580623627884440502)）
-  
-> [**我对A-SOUL的喜爱，是人类理性的证明。**](https://github.com/torvalds/linux/tree/42194adcee11c339872fc874d0d0b9f77f84c932)<br>
-> <p align="right"><s>——康德</s></p>
-
 [English](./readme.md) | 中文
 
 ### 主力
@@ -66,12 +58,6 @@
 
 你能看到的公开的联系方式都是基本不登陆的
 有事就 hello@neneko.cn
-
-### 感情状况
-
-[<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/jxt.svg" width="65" border="0" />](https://space.bilibili.com/672328094) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/爹.svg" width="65" border="0" />](https://space.bilibili.com/672346917) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/bjx.svg" width="65" border="0" />](https://space.bilibili.com/672353429) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/n70.svg" width="65" border="0" />](https://space.bilibili.com/672342685) [<img src="https://raw.githubusercontent.com/nenekodev/nenekodev/master/yellow home gentleman.svg" width="65" border="0" />](https://space.bilibili.com/351609538)
-
-<img src="https://z3.ax1x.com/2021/11/24/oPasKS.png" width="100" border="0" /> https://t.me/addstickers/DianaStrawberry
 
 -----
 
