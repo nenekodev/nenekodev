@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4440" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4457" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.26m added, 2.01m removed
+                                    2.14m added, 1.95m removed
                                 </div>
                             </section>
                             <section>
@@ -465,15 +465,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.49mb of code in 639 edited files across 207 commits</small>
+                <small>estimation from 10.3mb of code in 1453 edited files across 457 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.3347913073917" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.3347913073917" y="0" width="83.28840589483961" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.6231972022313" y="0" width="17.376802797768722" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="307.3874052817867" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="307.3874052817867" y="0" width="101.79792461177996" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="409.18532989356663" y="0" width="23.21340885864553" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.3987387522122" y="0" width="18.142081993569132" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.5408207457813" y="0" width="8.72679559560308" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.2676163413844" y="0" width="0.6594677708816272" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.92708411226596" y="0" width="0.06395816196814477" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.99104227423413" y="0" width="0.008957725765846606" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -490,9 +495,39 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Stylus
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Batchfile
                     </div>
                 </div>
             </section>
@@ -621,10 +656,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                                <text x="60" y="60" dominant-baseline="central">90</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="240.17 329"/>
+                                <text x="60" y="60" dominant-baseline="central">73</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -678,15 +713,15 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.88 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">2.60 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.88 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">2.60 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
@@ -720,15 +755,15 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.88 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">2.60 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.88 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">2.60 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
@@ -2946,7 +2981,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 844k out of 72.2m repositories</span>
+                                    <span class="gh">ranked 844k out of 74.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 13 times</div>
                             </div>
@@ -3066,7 +3101,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.43m out of 72.2m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 74.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 14 stars</div>
                             </div>
@@ -3295,7 +3330,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2023, 02:10:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2023, 03:07:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
