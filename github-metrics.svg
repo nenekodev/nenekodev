@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.71m added, 5.34m removed
+                                    2.28m added, 2m removed
                                 </div>
                             </section>
                             <section>
@@ -465,18 +465,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.42mb of code in 1107 edited files across 403 commits</small>
+                <small>estimation from 9.14mb of code in 1033 edited files across 397 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.9463750177046" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="323.9463750177046" y="0" width="107.3066111614025" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.2529861791071" y="0" width="19.123821488173316" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.37680766728045" y="0" width="9.19903686871486" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.5758445359953" y="0" width="0.3567362740449256" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.93258081004024" y="0" width="0.06741918995978742" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.96168663232334" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="323.96168663232334" y="0" width="107.28886815933164" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.25055479165496" y="0" width="19.125438957726622" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.3759937493816" y="0" width="9.199814912060647" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.57580866144224" y="0" width="0.35676644636493937" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9325751078072" y="0" width="0.06742489219284455" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -652,8 +652,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="233.58999999999997 329"/>
-                                <text x="60" y="60" dominant-baseline="central">71</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="180.95000000000002 329"/>
+                                <text x="60" y="60" dominant-baseline="central">55</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -707,15 +707,15 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.47 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">3.40 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.27 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">3.40 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
@@ -749,15 +749,15 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.47 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">3.40 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.27 s</div>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+                        <div class="audit text">3.40 s</div>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
                     </div>
                     <div class="field">
@@ -1807,6 +1807,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2050,13 +2055,8 @@
                             <div class="entry">
                                 <span class="value">35</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                4
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 5
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2117,6 +2117,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 17
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                18
                             </div>
                         </div>
                     </section>
@@ -2126,13 +2131,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                4
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 5
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2193,6 +2193,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 17
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                18
                             </div>
                         </div>
                     </section>
@@ -2770,7 +2775,7 @@ https://app.snyk.io/org/nenekodev/project/f9be9615-b64f-4259-a34b-362eec2ca1aa?u
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.58m out of 124m users</span>
+                                    <span class="gh">ranked 1.58m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 29 public repositories</div>
                             </div>
@@ -2822,7 +2827,7 @@ https://app.snyk.io/org/nenekodev/project/f9be9615-b64f-4259-a34b-362eec2ca1aa?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 108k out of 124m users</span>
+                                    <span class="gh">ranked 108k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 93 users</div>
                             </div>
@@ -2934,7 +2939,7 @@ https://app.snyk.io/org/nenekodev/project/f9be9615-b64f-4259-a34b-362eec2ca1aa?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 851k out of 53m repositories</span>
+                                    <span class="gh">ranked 851k out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 13 times</div>
                             </div>
@@ -3013,7 +3018,7 @@ https://app.snyk.io/org/nenekodev/project/f9be9615-b64f-4259-a34b-362eec2ca1aa?u
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.44m out of 53m repositories</span>
+                                    <span class="gh">ranked 1.44m out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 14 stars</div>
                             </div>
@@ -3246,7 +3251,7 @@ https://app.snyk.io/org/nenekodev/project/f9be9615-b64f-4259-a34b-362eec2ca1aa?u
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 07:09:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 08:41:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
