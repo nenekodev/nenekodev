@@ -1,4 +1,4 @@
-[![GPG key](https://img.shields.io/badge/GPG-CF70%20EF19%20B1AC%202883%205637-1A52C2?style=flat&logo=monkeytie&logoColor=ffffff)](https://raw.githubusercontent.com/nenekodev/nenekodev.github.io/master/gpgkey.pub)
+[![PGP key](https://img.shields.io/badge/PGP-CF70%20EF19%20B1AC%202883%205637-1A52C2?style=flat&logo=monkeytie&logoColor=ffffff)](https://raw.githubusercontent.com/nenekodev/nenekodev.github.io/master/gpgkey.pub)
 
 [English](./readme.md) | 中文
 
