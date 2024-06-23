@@ -1,5 +1,7 @@
 [![PGP key](https://img.shields.io/badge/PGP-CF70%20EF19%20B1AC%202883%205637-1A52C2?style=flat&logo=monkeytie&logoColor=ffffff)](https://raw.githubusercontent.com/nenekodev/nenekodev.github.io/master/PGPkey.pub)
 
+![](https://pic.imgdb.cn/item/93585/liuying2.jpg)
+
 [English](./readme.md) | 中文
 
 ### 主力
