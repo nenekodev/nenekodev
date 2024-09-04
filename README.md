@@ -13,7 +13,7 @@ English | [中文](./readme-zh.md)
 [![HP Pavilion 15](https://img.shields.io/badge/HP-Pavilion%2015-6C6377?style=flat-square&logo=hp&logoColor=ffffff)](https://www.hp.com/cn-zh/pavilion.html)
 <br>
 [![Windows 11](https://img.shields.io/badge/Windows%2011-22H1-4e9eee?style=flat-square&logo=microsoft&logoColor=4e9eee)](https://www.microsoft.com/windows/)
-[![AMD Ryzen 7 3700X](https://img.shields.io/badge/AMD-Ryzen%207%203700X-DA0030?style=flat-square&logo=AMD&logoColor=ffffff)](https://www.amd.com/zh-hans/processors/ryzen-3000-series)
+[![AMD Ryzen 7 3700X](https://img.shields.io/badge/AMD-Ryzen%207%203700X-DA0030?style=flat-square&logo=AMD&logoColor=ffffff)](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-7-3700x.html)
 <br>
 [![Oneplus Ace 3](https://img.shields.io/badge/Oneplus-Ace%203-a366cc?style=flat-square&logo=Oneplus&logoColor=ffffff)](https://www.oneplus.com/cn/ace-3)
 [![iPhone 13 mini](https://img.shields.io/badge/iPhone-13%20mini-faf5f1?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/)
