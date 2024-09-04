@@ -85,4 +85,4 @@
 
 [数据民喜欢的东西](./dashboard.md)
 
-[neneko.cn](https://neneko.cn)[zh-sc][WIP]
+[neneko.dev](https://neneko.dev)[zh-cn][WIP]
