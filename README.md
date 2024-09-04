@@ -82,6 +82,6 @@ Other works：[My projects](https://github.com/nenekodev?tab=repositories)、[My
 
 [For detailed statistics](./dashboard.md)
 
-[neneko.cn](https://neneko.dev)[zh-cn][WIP]
+[neneko.dev](https://neneko.dev)[zh-cn][WIP]
 
 
